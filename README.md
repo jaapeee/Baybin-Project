@@ -34,7 +34,7 @@
 ##
 ##
 
-## Actual Design
+## Actual Prototype
 
 
 ![IMG_20230817_230423](https://github.com/jaapeee/Baybin-Project/assets/84661212/ad76dc2f-cd8e-444b-ae90-4dee4330f174)
